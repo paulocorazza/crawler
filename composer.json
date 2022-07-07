@@ -1,0 +1,19 @@
+{
+    "name": "paulocorazza/buscador_cursos",
+    "description": "um buscador de cursos da alura, usado na formacao avancada de php",
+    "autoload": {
+        "psr-4": {
+            "Paulocorazza\\BuscadorCursos\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Paulo Corazza"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.4",
+        "symfony/dom-crawler":"^4.2",
+        "symfony/css-selector": "^6.1"
+    }
+}
