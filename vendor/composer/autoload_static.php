@@ -29,7 +29,10 @@ class ComposerStaticInitec53f1ad4a106e5c4581c0ffa48d2312
         array (
             'Psr\\Http\\Message\\' => 17,
             'Psr\\Http\\Client\\' => 16,
-            'Paulocorazza\\BuscadorCursos\\' => 28,
+        ),
+        'M' => 
+        array (
+            'Moises\\Buscador\\' => 16,
         ),
         'G' => 
         array (
@@ -69,9 +72,9 @@ class ComposerStaticInitec53f1ad4a106e5c4581c0ffa48d2312
         array (
             0 => __DIR__ . '/..' . '/psr/http-client/src',
         ),
-        'Paulocorazza\\BuscadorCursos\\' => 
+        'Moises\\Buscador\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/src',
+            0 => '/src',
         ),
         'GuzzleHttp\\Psr7\\' => 
         array (
